@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Hacker from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharanink&label=Profile%20views&color=0e75b6&style=flat" alt="bharanink" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharanink&theme=" alt="bharanink" /></a> </p>
+
 
 - 🔥I’m Good at **developing tools/Software for Cyber Security/Investigation**
 - 🌱 I’m currently learning **For CEH and Comptia Security+**
