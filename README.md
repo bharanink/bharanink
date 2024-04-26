@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bharanink/bharanink/main/Bharani.gif">
+
 
 
 <h1 align="center">Hi 👋, I'm Bharani NK </h1>
