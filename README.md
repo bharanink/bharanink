@@ -7,7 +7,7 @@
 
   <!-- Typing SVG Dynamic Headline -->
   <a href="https://github.com/bharanink">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Security+Researcher+%26+Software+Engineer;AppSec%2C+Penetration+Testing+%26+Toolmaker;Privacy-First+AI+Architect+(CodeGuard+AI);React+%26+TypeScript+Library+Author+(ToastNova);Passionate+Open-Source+Contributor" alt="Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Developer+%26+Security+Researcher;AppSec+%26+Penetration+Testing+Toolmaker;Passionate+Open-Source+Contributor" alt="Typing Headline" />
   </a>
 
   <p align="center">
@@ -29,7 +29,6 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <img src="https://img.shields.io/badge/Location-Chennai%2C_India-0284C7?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-    <img src="https://komarev.com/ghpvc/?username=bharanink&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
@@ -211,7 +210,7 @@ I am a **Software Engineer & Cybersecurity Researcher** with deep expertise in a
   </p>
 
   <a href="https://buymeacoffee.com/bharanink" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=bharanink&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" height="52" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="190" />
   </a>
 
 </div>
